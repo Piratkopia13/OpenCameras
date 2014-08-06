@@ -1,0 +1,21 @@
+[
+{
+  "modid": "OpenCameras",
+  "name": "OpenCameras",
+  "description": "Adds cameras that can be controlled by ComputerCraft and/or OpenComputer computers",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Piratkopia13"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
